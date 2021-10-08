@@ -1,0 +1,15 @@
+{
+    "name": "nuct/lara_0804_p",
+    "autoload": {
+        "psr-4": {
+            "Nuct\\Lara0804P\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "chen shu ting",
+            "email": "a.0066715@gmail.com"
+        }
+    ],
+    "require": {}
+}
